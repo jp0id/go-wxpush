@@ -27,7 +27,7 @@
 
 ## 🚀 部署指南
 
-### 下载编译好的文件启动
+### [下载编译好的文件启动](https://github.com/hezhizheng/go-wxpush/releases/)
 
 - 启动参数
     * 命令行启动参数(可不加，启动之后直接在url上拼接参数也可)  `./go-wxpush_windows_amd64.exe -port "5566" -title "测试标题" -content "测试内容" -appid "xxx" -secret "xxx" -userid "xxx-k08" -template_id "xxx-Ks_PwGm--GSzllU" -base_url "https://hzz.cool"`
